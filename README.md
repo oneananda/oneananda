@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud, AI, ML
 - 🌱 I’m currently learning AWS Cloud
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me oneananda.com or search in YouTube for oneananda 
 
 <!---
 oneananda/oneananda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
