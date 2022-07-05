@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oneananda
-- 👀 I’m interested in Cloud, AI, ML
-- 🌱 I’m currently learning AWS Cloud
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cloud, AI, ML, Software Architecture
+- 🌱 I’m currently learning AWS Cloud, 
+- 💞️ I’m looking to collaborate on programming concepts
 - 📫 How to reach me oneananda.com or search in YouTube for oneananda 
 
 <!---
