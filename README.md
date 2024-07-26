@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oneananda
-- 👀 I’m interested in Cloud, AI, ML, Software Architecture
+- 👀 I’m interested in Cloud, AI, ML, ASP.NET Core, Software Architecture
 - 🌱 I’m currently learning AWS Cloud, 
 - 💞️ I’m looking to collaborate on programming concepts
 - 📫 How to reach me: via oneananda.com or search in YouTube for oneananda 
